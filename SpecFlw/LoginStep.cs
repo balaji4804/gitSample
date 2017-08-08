@@ -41,6 +41,7 @@ namespace SpecFlw
         public void ThenTheResultPageShouldShowSEARCHShirt()
         {
             Console.WriteLine("test end");
+            Console.WriteLine("CR001");
             
         }
 
