@@ -38,6 +38,7 @@ namespace SpecFlw
             //TODO: implement assert (verification) logic
 
             ScenarioContext.Current.Pending();
+            // checkout in cr002
         }
     }
 }
