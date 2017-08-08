@@ -21,6 +21,7 @@ namespace SpecFlw
             // method. 
 
             ScenarioContext.Current.Pending();
+            Console.WriteLine("first step added");
         }
 
         [When("I press add")]
@@ -37,6 +38,7 @@ namespace SpecFlw
             //TODO: implement assert (verification) logic
 
             ScenarioContext.Current.Pending();
+            // checkout in cr002
         }
     }
 }
