@@ -21,6 +21,7 @@ namespace SpecFlw
             // method. 
 
             ScenarioContext.Current.Pending();
+            Console.WriteLine("first step added");
         }
 
         [When("I press add")]
